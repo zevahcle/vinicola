@@ -1,0 +1,101 @@
+<!DOCTYPE HTML>
+<!--
+	Tessellate by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Vinícola total</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<section id="header" class="dark">
+				<header >
+					<h1>Vinícola Total <br/> <small>Donde la literatura encuentra a la vinicultura </small></h1>
+					
+				</header>
+			</section>
+
+		<!-- First -->
+			<section id="first" class="main">
+				<header>
+					<div class="container">
+						<h2>Un proyecto familiar</h2>
+                        Inspirado en el cuento <b>La biblioteca total</b>, de Borges, nuestro proyecto une las pasiones por la literatura y la enología.
+						 Tenemos una filosofía de mínima intervención en el proceso de vinificación para lograr expresividad y características irrepetibles en cada añada.
+                        Con fruta del Valle de San Vicente, al sur de Ensenada, hemos dedicado nuestro esfuerzo en producir vinos de gran calidad. <br/>
+                        Queremos conservar los procesos artesanales de vinificación, clarificado por decantación y filtrado por medios mecánicos, sin adiciones o correcciones.
+                        <br/>
+                        La protagonista de nuestros vinos es la uva. El sol de Ensenada permite una maduración plena del fruto y la alternancia con noches frías permite que la piel de la uva desarrolle taninos intensos. <br/>
+                            La maduración en madera de roble francés hace que se consoliden los sabores compotados y se redondeen los taninos, amplificando las cualidades de los varietales que nos han cuativado.
+                        
+					</div>
+				</header>
+                
+			<section id="third" class="main">
+				<header>
+					<div class="container">
+						<h1>TOMO UNO <BR/> NEBBIOLO</h1>
+						<p>Nuestro primer proyecto con la uva consentida de Ensenada. Logra un color intenso,  muy rica en aromas sutiles y evanecentes.</br>
+                        Está emparentado con la novela Rayuela, cada sorbo nos cuenta una historia y cada botella la puede contar de manera distinta.</p>
+					</div>
+				</header>
+				<div class="content dark style3">
+					<div class="container">
+						<div class="row">
+                            <div class="col-4 col-12-narrow">
+								<p>Publicada en 1963, esta novela del escritor argentino <a href="https://es.wikipedia.org/wiki/Julio_Cort%C3%A1zar"> Julio Cortázar</a> se divide en tres partes, tituladas Del lado de allá (capítulos del 1 al 36), Del lado de acá (desde el capítulo 37 al 56) y De otros lados (Capítulos prescindibles), que abarca del capítulo 57 al 155.
+                                </p>
+								<p>El carácter rompedor de esta obra se manifiesta ya en la página que precede a estas tres partes, titulada Tablero de dirección; en ella, Cortázar invita al lector a elegir entre dos posibilidades de lectura. La primera opción es la convencional: consiste en leer linealmente las dos primeras partes y obviar la tercera (de ahí su subtítulo de Capítulos prescindibles). La segunda es seguir una lista de capítulos propuesta por el autor, en la que los Capítulos prescindibles se intercalan como una suerte de comentarios (a menudo crípticos) entre los capítulos de las dos primeras partes.
+                                </p>
+								<footer>
+									<a href="https://www.biografiasyvidas.com/obra/rayuela.htm" class="button scrolly">Un resumen completo de Rayuela</a>
+								</footer>
+							</div>
+							<div class="col-4 col-12-narrow">
+								<p>La trama expuesta en las dos primeras partes resulta trágica y simple. Sus títulos, Del lado de allá y Del lado de acá, aluden al espacio de la acción: París y Argentina. El protagonista, Horacio Oliveira, ejerce de traductor en París, como el propio Cortázar. Allí se convierte en amante de Lucía, apodada la Maga, una montevideana con un hijo natural, muy niño, al que ella llama Rocamadour. Ambos personajes son del todo contrapuestos, aunque probablemente de ello mismo procede la atracción: la Maga, haciendo honor a su sobrenombre, es espontánea, intuitiva, impredecible; Horacio es un intelectual en busca del sentido de la vida y del arte.</p>
+							</div>
+                            <div class="col-4 col-12-narrow">
+                                <span class="image featured"><img src="images/rayuela.jpg" alt="" /></span>
+							</div>
+                            
+						</div>
+					</div>
+				</div>
+			</section>
+
+		
+			<section id="fourth" class="main">
+				<header>
+					<div class="container">
+						<h2>Ponte en contacto con nosotros</h2>
+		<!-- Footer -->
+			<section id="footer">
+				<ul class="icons">
+					<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+					<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+                    <li> <a href="#" class="fa fa-phone"></a>+52 646159938</li>
+				</ul>
+				<div class="copyright">
+					<ul class="menu">
+						<li>&copy; VINICOLA TOTAL. All rights reserved.</li>
+					</ul>
+				</div>
+			</section>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
